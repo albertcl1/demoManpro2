@@ -1,2 +1,3 @@
 test
 [dari central] hello
+[dari lokal] hi
